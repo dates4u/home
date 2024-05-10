@@ -3,7 +3,6 @@
 <a href='https://dates4u.github.io/dates/' target='_blank'>Go to DATES4U</a>
 
 <h2>Credits:</h2>
-@PlacidityIsEpic - Programming (yes)
 @dates4u - Idea and Origin (did small changes lol)
 <hr>
 
