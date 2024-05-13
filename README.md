@@ -3,7 +3,8 @@
 <a href='https://dates4u.github.io/dates/' target='_blank'>Go to DATES4U</a>
 
 <h2>Credits:</h2>
-@dates4u - Idea and Origin (did small changes lol)
+@dates4u - Idea and Origin (did code lol finnaly i know more then scratch gaming lol!??!??)
 <hr>
 
 welcome to dates4u
+its the <b>best<b> thing ever!??!?!?
